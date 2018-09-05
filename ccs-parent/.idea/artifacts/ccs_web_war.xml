@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ccs-web:war">
+    <output-path>$PROJECT_DIR$/ccs-web/target</output-path>
+    <root id="archive" name="css-web.war">
+      <element id="artifact" artifact-name="ccs-web:war exploded" />
+    </root>
+  </artifact>
+</component>
